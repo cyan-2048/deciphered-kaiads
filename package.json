@@ -1,0 +1,14 @@
+{
+	"dependencies": {
+		"esbuild": "^0.19.5"
+	},
+	"name": "deciphered-kaiads",
+	"module": "build.js",
+	"type": "module",
+	"devDependencies": {
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
